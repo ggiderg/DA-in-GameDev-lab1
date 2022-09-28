@@ -45,6 +45,9 @@
 ![image](https://user-images.githubusercontent.com/58801260/192836490-f3dcb7fa-b68f-4ac5-9721-8d1ea83cbbb2.png)
 
 
+![image](https://user-images.githubusercontent.com/58801260/192840060-ad3dbddf-79e3-40aa-b960-bc8310e2cdcd.png)
+
+
 
 ## Задание 2
 ### Должна ли величина loss стремиться к нулю при изменении исходных данных? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ.
