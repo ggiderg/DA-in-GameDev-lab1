@@ -51,6 +51,7 @@
 ![image](https://user-images.githubusercontent.com/58801260/195161648-3acb92fb-2f97-4eee-8d81-fd309c26cbba.png)
 
 [Unity.zip](https://github.com/ggiderg/DA-in-GameDev-lab1/files/9758524/Unity.zip)
+[Script.zip](https://github.com/ggiderg/DA-in-GameDev-lab1/files/9758542/Script.zip)
 
 
 
